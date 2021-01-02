@@ -21031,5 +21031,18 @@
     "description": "webrod",
     "license": "MIT",
     "web": "https://github.com/j-a-s-d/webrod"
+  },
+  {
+    "name": "shama",
+    "url": "https://github.com/de-odex/shama",
+    "method": "git",
+    "tags": [
+      "library",
+      "algorithms",
+      "random"
+    ],
+    "description": "Extensions for nim-random",
+    "license": "MIT",
+    "web": "https://github.com/de-odex/shama"
   }
 ]
